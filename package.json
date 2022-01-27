@@ -19,7 +19,7 @@
     "core-js": "^3.4.4",
     "cytoscape": "^3.13.0",
     "danmaku": "^2.0.0",
-    "echarts": "^4.6.0",
+    "echarts": "^5.3.0",
     "element-ui": "^2.13.0",
     "encoding-down": "^6.3.0",
     "got": "^11.1.3",
